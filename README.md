@@ -11,7 +11,7 @@
 - Las ciudades se cargan en los combos desde un archivo .txt y desde un array respectivamente.
 
 - Según las ciudades origen y actual se aumenta el interés o se disminuye en una cantidad determinada.
--
+
 
 ![image](https://user-images.githubusercontent.com/66112531/186484987-69e431f3-3f93-401e-9f33-9f45f5f4cd9d.png)
 
