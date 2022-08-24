@@ -2,9 +2,13 @@
 
 ## Interfaz sencilla realizada con el lenguaje C# y el editor Visual Studio.
 
-- Se introduce un nombre, la aplicación realiza la validación si son letras se puede proceder a pulsar el botón "Solicitar".
+- En el inicio el botón tiene otro color, una vez se empieza a escribir la fuente del botón cambia a blanco.
 
 ![image](https://user-images.githubusercontent.com/66112531/186484758-fa126772-a7cf-4915-a5a7-b46576f50969.png)
+
+- Se introduce un nombre, la aplicación realiza la validación si son letras se puede proceder a pulsar el botón "Solicitar".
+
+![image](https://user-images.githubusercontent.com/66112531/186488888-f46aa588-b56b-4115-8176-6f3fb85256ee.png)
 
 - Al pulsar el botón "Solicitar" si la validación de datos es correcta entonces se muestra otra ventana de tipo modal y la ventana anterior queda inhabilitada.
 
